@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background: linear-gradient(0deg, rgba(195, 109, 34, 1) 0%, rgba(247, 45, 253, 1) 100%);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#ert{
+    background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 51%, #fc00ff 100%)
+}
+
+#ert {
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+#ert {
+    background-position: right center;
+     color: #fff;
+    text-decoration: none;
+}
+h1{
+    font-size: 130  px;
+        background-color: #f3ec78;
+    font-weight: bolder;
+    background-image: linear-gradient(45deg,#0250c5, #d43f8d);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
